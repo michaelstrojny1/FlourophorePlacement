@@ -1,0 +1,8 @@
+{
+  "criterion_final": -0.013480800203979015,
+  "criterion_initial": -0.022405384108424187,
+  "criterion_grid": -0.020123466849327087,
+  "criterion_random_mean": -0.020905736042186616,
+  "criterion_random_std": 0.0036798862324479327,
+  "grad_norm_final": 0.005486421752721071
+}
