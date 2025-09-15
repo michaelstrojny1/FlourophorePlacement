@@ -59,9 +59,9 @@ The repository includes both variance-based and principled FIM sensor optimizati
 | Method | Final Loss | Notes |
 |--------|------------|-------|
 | Variance | 0.01171 | Fast, stable, empirically validated |
-| FIM (D-optimal, normalized) | 0.05227 | Principled, exact sensitivities via conditional PINN |
+| FIM (normalized) | 0.05227 | Advanced |
 
-Use the conditional PINN approach for theoretically grounded optimal experimental design:
+FIM loss will be larger due to additional FIM term, however, it is the most principled
 
 ```bash
 # Full comparison with tuned parameters
