@@ -1,6 +1,6 @@
-# Physics-Informed Sensor Placement for Nanomaterial Characterization
+# Physics-Informed Sensor Placement for Nanomaterials
 
-Optimal fluorophore sensor placement using physics-informed neural networks for nanomaterial diffusion parameter estimation.
+Optimal fluorophore sensor placement using physics-informed neural networks for nanomaterial diffusion parameter estimation. Can be modified for **any** sensor placement problem!
 
 ## Overview
 
