@@ -6,7 +6,7 @@ Optimal fluorophore sensor placement using physics-informed neural networks for 
 
 Physics-informed approach to optimize sensor placement for nanomaterial characterization experiments. Neural networks satisfy diffusion-reaction physics to achieve **70-77% improvement** over random sensor placement.
 
-Includes principled Fisher Information Matrix (FIM) implementation with conditional PINNs for exact autograd sensitivities.
+Includes implemntation with and without a Fisher Information objective
 
 ## Quick Start
 
